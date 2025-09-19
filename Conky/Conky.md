@@ -6,7 +6,14 @@
 
 ## 🛠️ About
 Conky is a system monitor that displays any information on the desktop.    
-- (CPU, RAM, Swap, Disk Space, Temperature, Top Process, Upload, Download, etc.)    
+- CPU
+- RAM
+- Swap
+- Disk Space
+- Temperature
+- Top Process
+- Upload, Download, etc.
+
 It is an extremely configurable utility, however, configuration is done by editing configuration files.    
 Some may find it discouraging at first, but there is nothing to worry about. You will eventually love it :D.    
 
