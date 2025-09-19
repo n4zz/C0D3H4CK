@@ -12,8 +12,6 @@ Some may find it discouraging at first, but there is nothing to worry about. You
 
 ✅ Tested on Manjaro/Arch Linux. May work with other KDE-Wayland setups.
 
----
-
 You can find my other Conky configurations here. (https://codehack.cz/conky.html#gsc.tab=0)
 Conky homepage project. (https://github.com/brndnmtthws/conky/wiki)
 ---
